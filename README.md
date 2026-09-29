@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @Rahul-157
-- 👀 I’m interested in Backend, Automation and IoT
-- 🌱 I’m currently learning Big Data, Low Level Design, High Level Design
-- 💞️ I’m looking to collaborate on Open Source, distributed systems
-- 📫 Contact me at kum28ra@gmail.com, 9468438438
+# Hi, I’m Rahul Kumar 👋
+
+Senior Member of Technical Staff at Oracle Cloud Infrastructure, building secure, scalable backend and cloud-security systems.
+
+- 🔭 I work on distributed systems, cloud security, fleet orchestration, and high-scale data-plane services.
+- 🛠️ My core stack: Java, Python, SQL, Kubernetes/OKE, OCI, AWS, Redis, Oracle SQL, REST APIs, WebSockets, Terraform, Prometheus, and Grafana.
+- 🌱 I’m deepening my skills in system design, distributed systems, and scalable data platforms.
+- 🤝 I’m open to collaborating on backend infrastructure, cloud-native systems, developer tooling, and open-source projects.
+- 📫 Reach me at [kum28ra@gmail.com](mailto:kum28ra@gmail.com) or [LinkedIn](https://www.linkedin.com/in/rahulkumar157/).
 
 <!---
-Rahul-157/Rahul-157 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Rahul-157/Rahul-157 is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
 --->
